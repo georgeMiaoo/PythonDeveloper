@@ -22,5 +22,5 @@ env/
 .vscode/
 
 # Obsidian local workspace and AI conversation data
-.obsidian/
+.obsidian
 .claudian/
